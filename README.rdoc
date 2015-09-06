@@ -1,0 +1,5 @@
+== README
+
+  run => rails server 
+  localhost:3000/index
+<tt>rake doc:app</tt>.
